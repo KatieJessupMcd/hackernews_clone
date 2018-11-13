@@ -1,0 +1,58 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.body-content {
+  background-color: rgb(245, 244, 236);
+}
+
+.card {
+  background-color: rgb(245, 244, 236);
+  border: 0;
+}
+
+.navbar {
+  background-color: rgb(230, 74, 29);
+  color: black;
+}
+
+.visible {
+  height: 100%;
+}
+
+.invisible {
+  height: 0%;
+}
+
+.btn {
+  background-color: rgb(230, 74, 29);
+  color: white;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+.nav-link:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+ol li {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  opacity: 1;
+}
+
+.invisible-nums {
+  opacity: 0;
+}
+
+.invisible {
+  height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.span-contents {
+  opacity: 1;
+}
